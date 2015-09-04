@@ -1,4 +1,7 @@
 # Microservice PubSub Libs
+
+[![Build Status](https://travis-ci.org/Respondly/service-pubsub.svg?branch=master)](https://travis-ci.org/Respondly/service-pubsub)
+
 Pub/Sub library for microservices, built on RabbitMQ
 
 
